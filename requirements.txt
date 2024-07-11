@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+requests
+Pillow
+opencv-python-headless
+scikit-image
+imutils
